@@ -1,0 +1,6 @@
+1- Inserire nella cartella il file json che si vuole ripulire
+2- Rinominare il file da ripulire in "dati.json"
+3- Lanciare main.py
+4- Il risultato sarà un json array salvato nel file "newData.json"
+
+N.B. La pulizia di grosse quantità di dati potrebbe richiedere molto tempo (anche ore)

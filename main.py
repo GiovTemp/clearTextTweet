@@ -1,5 +1,6 @@
-# Python program to read JSON
-# from a file
+# Python program to read JSON and clean data deleting stopwords
+# Developed By Giovanni tempesta
+# script designed to support crowdpulse2.0
 
 
 import json
